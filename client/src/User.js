@@ -1,0 +1,7 @@
+var User = {
+
+    name : "",
+    playlists:[{}],
+    
+
+}
